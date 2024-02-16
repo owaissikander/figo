@@ -1,0 +1,98 @@
+
+
+.navbar{
+    margin-right: 215px;
+    display: flex;
+    margin-left: 100px;
+    
+}
+
+
+.first_parent{
+    margin-left: 100px;
+}
+.second_parent{
+    margin-left: 100px;
+}
+
+
+
+.content {
+    padding: 75px;
+     
+    margin-right: 0%;
+    margin-right: 0%;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.btn:hover {
+    background-color: rgb(102, 219, 102);
+
+}
+
+.content_2 {
+     
+    margin-left: 0%;
+    padding: 75px;
+    width: 500px;
+}
+
+.chef {
+    
+    margin-right: 0%;
+    width: 500px;
+    padding: 75px;
+}
+
+.chef>img {
+    width: 400px;
+}
+
+.three_card {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    gap: 45px;
+
+}
+
+.icon>img {
+    justify-items: center;
+    height: 55px !important;
+
+}
+
+.icon {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+}
+
+
+
+h4 {
+    color: rgb(240, 172, 46)
+}
+
+
+
+
+.pizza {
+   
+    padding: 75px;
+    width: 500px;
+     
+}
+.pizza>img{
+    width: 400px;
+    height: 350px;
+}
+
+.three_card {}
+
+.fouth_card>.card>img {
+    height: 155px;
+    width: 175px;
+}
